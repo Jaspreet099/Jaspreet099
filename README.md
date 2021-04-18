@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computer Science Student | Web Development
+Computer Science Student | Web Development | Graphic Designer 
 
 [![Jaspreet Singh Saini's github stats](https://github-readme-stats.vercel.app/api?username=Jaspreet099)](https://github.com/anuraghazra/github-readme-stats)
 
