@@ -1,6 +1,6 @@
 ### Hello Everyone👋
    
-This is Jaspreet Singh Saini, a first-year student pursuing BCA+MCA from Medicaps University. I am interested in OpenSource, Web Development & Graphic Designing. I know Front-end development and I am learning ReactJs nowadays.Right now I'm actively contributing to The DesignSystems Community and its projects.
+This is Jaspreet Singh Saini,a first-year student pursuing BCA+MCA from Medicaps University. I am interested in OpenSource, Web Development & Graphic Designing. I know Front-end development and I am learning ReactJs nowadays.Right now I'm actively contributing to The DesignSystems Community and its projects.
 
 [![Jaspreet Singh Saini's github stats](https://github-readme-stats.vercel.app/api?username=Jaspreet099)](https://github.com/anuraghazra/github-readme-stats)
 
