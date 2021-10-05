@@ -1,7 +1,9 @@
-### Hello Everyone👋
+## Hello Folks👋
    
 
-This is Jaspreet Singh Saini,a first-year student pursuing BCA+MCA from Medicaps University. I am interested in OpenSource, Web Development & Graphic Designing. I know Front-end development and I am learning ReactJs nowadays.Right now I'm actively contributing to The DesignSystems Community and its projects.
+### This is Jaspreet Singh Saini, a Second-year student pursuing BCA+MCA from Medi-Caps University. I'm a Graphic Designer and Front-end Web Developer who like to create amazing designs.
+### I have started this journey as a beginner & what I learned throughout is that what makes everything possible is consistency.
+#### Willingness to learn something new is the foremost aspect of this skill :)
 
 
 
@@ -13,4 +15,4 @@ This is Jaspreet Singh Saini,a first-year student pursuing BCA+MCA from Medicaps
 - [Instagram - @official_jaspreet_saini](https://www.instagram.com/official_jaspreet_saini)
 - [Twitter - Jaspreet Singh Saini](https://twitter.com/s_jaspreet099)
 
-Thanks for checking my GitHub Profile, Have a nice day!!
+Thanks for checking my GitHub Profile, Have a nice day!!8
