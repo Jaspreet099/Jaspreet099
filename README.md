@@ -3,7 +3,6 @@
 </div>  
 
 ## Hello Folks👋
-   
 
  <div align="left">This is Jaspreet Singh Saini, a Second-year student pursuing BCA+MCA from Medi-Caps University. I'm a Graphic Designer and Front-end Web Developer who like to create amazing designs.
  I have started this journey as a beginner & what I learned throughout is that what makes everything possible is consistency.
