@@ -1,6 +1,7 @@
 <div align="center">
-<img src="./images/dev-01.jpg" align="center"/>
+<img src="./images/Linkedin banner 2022.jpg" align="center"/>
 </div>  
+
 
 ## Hello Folks👋
 
@@ -9,6 +10,7 @@ I‘m a Graphic Designer with over two years of experience conceptualizing and c
 Nowadays I'm exploring more User Experience(UX) Design.
 
 Checkout my work at: https://jaspreetdesigns.netlify.app/
+
 Magazine Design:- https://indian-preneur.com/10-influential-indianpreneurs-to-watch-worldwide-2022/
 
 Do you want some cool stickers? DM: https://www.instagram.com/p/ChhfWxYPzVB/</div>
