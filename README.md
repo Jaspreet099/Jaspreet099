@@ -4,9 +4,14 @@
 
 ## Hello Folks👋
 
- <div align="left">This is Jaspreet Singh Saini, a Third-year student pursuing BCA+MCA from Medi-Caps University. I'm a Graphic Designer, Ui Designer and Front-end Web Developer who like to create amazing designs.
- I have started this journey as a beginner & what I learned throughout is that what makes everything possible is consistency.
- Willingness to learn something new is the foremost aspect of this skill :)</div>
+ <div align="left">Hi, I‘m Jaspreet Singh👋
+I‘m a Graphic Designer with over two years of experience conceptualizing and crafting digital designs, helping businesses expand their capacity for impact 🚀.
+Nowadays I'm exploring more User Experience(UX) Design.
+
+Checkout my work at: https://jaspreetdesigns.netlify.app/
+Magazine Design:- https://indian-preneur.com/10-influential-indianpreneurs-to-watch-worldwide-2022/
+
+Do you want some cool stickers? DM: https://www.instagram.com/p/ChhfWxYPzVB/</div>
 
 <br>
 
