@@ -6,12 +6,9 @@
 ## Hello Folks👋
 
  <div align="left">Hi, I‘m Jaspreet Singh👋
-I‘m a Graphic Designer with over two years of experience conceptualizing and crafting digital designs, helping businesses expand their capacity for impact 🚀.
-Nowadays I'm exploring more User Experience(UX) Design.
+I’m a UX/UI Designer with over 1.5+ years of experience crafting beautiful User-friendly Digital Experiences that make sense. I have a solid understanding of the design process and am experienced in designing user interfaces, wireframes, and prototyping. I am highly motivated and capable of working in a fast-paced environment.
 
 Checkout my work at: https://jaspreetdesigns.netlify.app/
-
-Magazine Design:- https://indian-preneur.com/10-influential-indianpreneurs-to-watch-worldwide-2022/
 
 Do you want some cool stickers? DM: https://www.instagram.com/p/ChhfWxYPzVB/</div>
 
