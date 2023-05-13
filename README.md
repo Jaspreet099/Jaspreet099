@@ -1,5 +1,6 @@
 <div align="center">
-<img src="./images/Linkedin banner 2022.jpg" align="center"/>
+ 
+<img src="https://media.licdn.com/dms/image/D4D16AQGcSBLtZp2dWg/profile-displaybackgroundimage-shrink_350_1400/0/1682878757285?e=1689206400&v=beta&t=WNaq0iufiXw5hbnwmQKPb7SAYcWKwvQiQB2KcG_5JTM" align="center"/>
 </div>  
 
 
