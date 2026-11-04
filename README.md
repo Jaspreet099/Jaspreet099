@@ -2,7 +2,7 @@
 
 I design things, then I build them myself.
 
-By day I'm a Senior Communication Designer at [Razorpay](https://razorpay.com). The rest of the time I design and build websites for founders, in Framer when speed matters and in code when the project needs more. You get one person from first sketch to a live site, with no handoff halfway through.
+By day I'm a Senior Communication Designer at [Razorpay](https://razorpay.com). The rest of the time I design and build for myself: products, side projects and tools, taken from an idea to something live on the internet.
 
 **4.5+ years · 10+ products shipped · 8+ industries · $50K MRR from 0→1 · 10kdesigners C11**
 
