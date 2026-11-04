@@ -1,57 +1,57 @@
-<div align="center">
- 
-<img src="https://media.licdn.com/dms/image/D4D16AQGcSBLtZp2dWg/profile-displaybackgroundimage-shrink_350_1400/0/1682878757285?e=1689206400&v=beta&t=WNaq0iufiXw5hbnwmQKPb7SAYcWKwvQiQB2KcG_5JTM" align="center"/>
-</div>  
+### hi, i'm jaspreet 👋
 
+I design things, then I build them myself.
 
-## Hello Folks👋
+By day I'm a Senior Communication Designer at [Razorpay](https://razorpay.com). The rest of the time I design and build websites for founders, in Framer when speed matters and in code when the project needs more. You get one person from first sketch to a live site, with no handoff halfway through.
 
- <div align="left">Hi, I‘m Jaspreet Singh👋
-I’m a UX/UI Designer with over 1.5+ years of experience crafting beautiful User-friendly Digital Experiences that make sense. I have a solid understanding of the design process and am experienced in designing user interfaces, wireframes, and prototyping. I am highly motivated and capable of working in a fast-paced environment.
+**4.5+ years · 10+ products shipped · 8+ industries · $50K MRR from 0→1 · 10kdesigners C11**
 
-Checkout my work at: https://jaspreetdesigns.netlify.app/
+**[jaspreet.design →](https://jaspreet.design)** &nbsp;·&nbsp; **[Book a call →](https://cal.com/jaspreet.design)**
 
-Do you want some cool stickers? DM: https://www.instagram.com/p/ChhfWxYPzVB/</div>
+---
 
-<br>
+#### What I do
 
-## My Skill Set  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-</div>
-<br>
+- **Web design & development.** Landing pages and full product sites, designed and built by me. Framer to launch fast, Next.js when it has to scale.
+- **Product design.** UI/UX for SaaS and apps, from a 0→1 MVP to fixing flows that aren't converting.
+- **Interaction & motion.** Animations and interactions that make a product feel right in use, not just look right in a mockup.
+- **Visual design.** Brand assets, launch campaigns and pitch decks.
 
+#### Things I've built for fun
 
-![Jaspreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaspreet099&show_icons=true&theme=tokyonight)
+My side projects have side projects. The live ones:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaspreet099&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- **[Pluxee Finder](https://jaspreet.design/pluxee)**: restaurants, cafés and stores near you that accept Pluxee meal cards, pinned on a map.
+- **[CONFIG Moments](https://moments.jaspreet.design)**: turns your Config India 2026 photos into ready-to-post cards. Fan-made, not affiliated with Figma.
+- **[Grave Grab](https://gravegrab.vercel.app)**: a Halloween button with something living underneath. Get your cursor close and bony hands reach out for it.
 
-<br>
+Still cooking:
 
-## Connect with me  
-<div align="center">
-<a href="https://instagram.com/jaspreet.designs/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>   
-<a href="https://linkedin.com/in/jaspreet099" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/s_jaspreet099" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
- 
+- **Superfluid**: touch your iPhone to your Mac and your photos flow across. Native iOS + macOS app, waitlist soon.
+- **A running app** for iPhone, built in SwiftUI on top of HealthKit.
+- **A code-rendered video studio** for cinematic product launch videos, made in Remotion instead of a timeline.
 
+#### How I work
+
+- **I ship, not just design.** You get a live, production-ready site with SEO, performance and CMS sorted, not a Figma file waiting for a developer.
+- **I pick the right tool.** Framer or code, I'll tell you which one your project needs and why.
+- **I build with AI, not around it.** Claude Code is part of my daily setup, which is how a designer ends up building iOS apps.
+
+> In a world of abundant tools, I value taste.
+
+#### Tools
+
+**Design:** Figma · Framer · Adobe Creative Suite<br>
+**Build:** Next.js · React · Tailwind CSS · Three.js · SwiftUI · Remotion · Vercel · Claude Code
+
+#### Off screen
+
+6'5". Yes, the weather's fine up here. I lift, I run (first 10K done), and I start more projects than I should.
+
+---
+
+#### Let's talk
+
+Have a website or product to launch? **[Book a call](https://cal.com/jaspreet.design)** and we'll work out whether Framer or code fits your project.
+
+[X](https://x.com/jaspreetdesign_) · [LinkedIn](https://www.linkedin.com/in/jaspreetdesigns/) · [Peerlist](https://peerlist.io/jaspreetdesign) · [Instagram](https://instagram.com/jaspreet.designs) · [YouTube](https://youtube.com/@Jaspreet.Designs)
